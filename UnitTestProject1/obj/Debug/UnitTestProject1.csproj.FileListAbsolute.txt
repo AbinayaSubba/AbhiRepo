@@ -1,0 +1,5 @@
+D:\DummyProject\AbhiWebApplications\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\DummyProject\AbhiWebApplications\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\DummyProject\AbhiWebApplications\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\DummyProject\AbhiWebApplications\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\DummyProject\AbhiWebApplications\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
